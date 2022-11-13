@@ -25,7 +25,7 @@ let nav = document.querySelector('#navbar__list');
 // fourthItem.className = 'navItems';
 
 
-//the new code to make it dynamic
+//the new code to make it dynamic:
 const sectionNumber= document.querySelectorAll('.secContainer')
 
 //give every section his properties in dynamic form
