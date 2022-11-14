@@ -2,7 +2,7 @@
 Landing Page
 
 <!-- changes -->
-i have changed the old code by a new one to give all sections their properties dynamically  
+I have changed the old code by a new one to give all sections their properties dynamically  
 
 <!-- The Project consists of  -->
 The project consists of four sections, and every section contains two paragraphs.
